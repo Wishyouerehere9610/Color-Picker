@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Color-Picker</string>
+    <string name="dialog_positive">Ok</string>
+    <string name="dialog_negative">Cancel</string>
+    <string name="dialog_title">Please Select Color</string>
+
+</resources>
